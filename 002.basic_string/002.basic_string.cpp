@@ -13,7 +13,6 @@ int main()
 
     printf("System directory: %ws\n", path);
 
-
     return 0;
 }
 
