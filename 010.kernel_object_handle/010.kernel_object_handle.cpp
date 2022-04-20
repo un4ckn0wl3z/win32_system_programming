@@ -18,7 +18,7 @@ int main()
 		system("pause");
 	}
 
-	
+	::CloseHandle(hMutex);
 
 	return 0;
 }
